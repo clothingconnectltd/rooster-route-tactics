@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RoosterRouteTactics" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0B0B0F</item>
+        <item name="android:statusBarColor">#000B0B0F</item>
+        <item name="android:navigationBarColor">#000B0B0F</item>
+    </style>
+</resources>
